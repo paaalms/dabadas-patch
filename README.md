@@ -8,9 +8,9 @@ and copy all files from PATCH folder
 4. ENJOY!
 
 # How to download this repository?
-1. Download Github stuff: https://gitstuffhaharofllmao
-2. Then click right mouse button on desktop and choose: git clone just
-3. Write this command: fuck fuck fuck
+1. Download git stuff: https://git-scm.com/downloads
+2. Then click right mouse button on desktop and choose: git bash here
+3. Write this command in git console: git clone https://github.com/paaalms/dabadas-patch.git
 4. Wait then console stoped that shit , enjoy!
 
 
