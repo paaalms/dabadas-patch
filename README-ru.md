@@ -7,7 +7,7 @@
 4. Enjoy!
 
 # Как склонировать этот репозиторий?
-1. Скачайте прогу от github https://patomvstavly
+1. Скачайте утилиту от git https://patomvstavly
 2. Теперь кликните по рабочему столу правой кнопкой мыши и выберите git clone in
-3. Напишите в консоли эту команду: git hyit potom vstavly
+3. Напишите в консоли эту команду: git clone https://github.com/paaalms/dabadas-patch.git
 4. Подождите пока консоль гита остановится и можете открывать папку!
