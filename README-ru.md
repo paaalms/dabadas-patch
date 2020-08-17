@@ -2,7 +2,7 @@
 
 # Как пофиксить анимированные чамсы?
 1. Склонируйте данный репозиторий dabadas-patch
-2. Затем откройте папку steam\commonapps\Counter Strike - Global Offensife и скопируйте все файлы из папки PATCH
+2. Затем откройте папку steam\commonapps\Counter Strike - Global Offensife\csgo и скопируйте все файлы из папки PATCH
 3. Заинджектите аддон и попробуйте включить анимированные чамсы
 4. Enjoy!
 
